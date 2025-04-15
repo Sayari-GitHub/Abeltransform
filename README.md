@@ -17,5 +17,18 @@ This repository contains code for performing the inverse Abel transform on fluor
 
 ## Usage
 
-```bash
-inv_abel.ipynb
+## 📘 Citation
+
+If you use this code for your research, please cite it using the following:
+
+```bibtex
+@software{sayari_majumder_2025_15220968,
+  author       = {Sayari Majumder},
+  title        = {Sayari-GitHub/Abeltransform: Revised release – Inverse Abel Transform of Fluorescence Images},
+  month        = {april},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.15220968},
+  url          = {https://doi.org/10.5281/zenodo.15220968}
+}
